@@ -1,4 +1,4 @@
-package org.jacoco.examples.maven.java;
+package ecse_429_testing_project;
 
 public class HelloWorld {
 	
